@@ -10,6 +10,6 @@ Full-stack engineer and UI/UX specialist in Kathmandu, shipping web and mobile p
 
 Most of my work lives in private client repositories, so the contribution graph shows the activity but not the code.
 
-Available full-time, part-time or on contract; remote, on US and Australian hours.
+Available full-time, part-time or on contract; remote, on US, European and Australian hours.
 
-[Case studies](https://sumanshrestha.net/work) · [LinkedIn](https://www.linkedin.com/in/sumanshrestha) · info@sumanshrestha.net
+[Case studies](https://sumanshrestha.net/work/) · [LinkedIn](https://www.linkedin.com/in/sumanshrestha) · info@sumanshrestha.net
